@@ -5,7 +5,7 @@
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <ul>
   <li>👋Merhaba, ben @goktuResmi</li>
-  <li>❤️Python'da botlar yapılır.</li>
+  <li>❤️Python Ve JavaScript botları yapılır.</li>
 </ul>
 
 #### A little more about me
